@@ -1,0 +1,12 @@
+{
+  "name": "ejercicio6",
+  "version": "1.0.0",
+  "description": "Ejercicio 6 del Open Bootcamp",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Edwar Frank Pons Bessio",
+  "license": "ISC"
+}
